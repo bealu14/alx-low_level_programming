@@ -1,6 +1,6 @@
 /*
  * File: 4-print_most_numbers.c
- * Auth: Abenezer Golda
+ * Auth: Bealu Girma
  */
 
 #include "main.h"
