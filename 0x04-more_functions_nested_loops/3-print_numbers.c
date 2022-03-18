@@ -1,6 +1,6 @@
 /*
  * File: 3-print_numbers.c
- * Auth: Abenezer Golda
+ * Auth: Bealu Girma
  */
 
 #include "main.h"
