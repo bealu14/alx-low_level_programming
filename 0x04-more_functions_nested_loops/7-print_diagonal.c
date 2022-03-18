@@ -1,6 +1,6 @@
 /*
  * File: 7-print_diagonal.c
- * Auth: Abenezer Golda
+ * Auth: Bealu Girma
  */
 
 #include "main.h"
