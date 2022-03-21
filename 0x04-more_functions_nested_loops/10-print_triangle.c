@@ -1,6 +1,6 @@
 /*
  * File: 10-print_triangle.c
- * Auth: Abenezer Golda
+ * Auth: Bealu Girma
  */
 
 #include "main.h"

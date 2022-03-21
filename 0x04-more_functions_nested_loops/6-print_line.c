@@ -1,6 +1,6 @@
 /*
  * File: 6-print_line.c
- * Auth: Abenezer Golda
+ * Auth: Bealu Girma
  */
 
 #include "main.h"
