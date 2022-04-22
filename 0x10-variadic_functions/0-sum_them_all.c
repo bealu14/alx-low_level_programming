@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main(){
 int c_273,first_273,last_273,middle_273,n_273,key_273,array[100];
@@ -29,3 +30,30 @@ if(first_273>last_273)
 printf("not found! %d is not present in the list",key_273);
 return 0;
 }
+=======
+#include <stdio.h>
+#include <stdarg.h>
+
+/**
+* sum_them_all - sum of all its parameters
+* @n: n args
+* Return: sum or if n == 0, return 0
+*/
+int sum_them_all(const unsigned int n, ...)
+{
+	int sum = 0;
+	unsigned int i;
+	va_list arguments;
+
+	if (n)
+	{
+		va_start(arguments, n);
+		for (i = 0; i < n; i++)
+		{
+			sum += va_arg(arguments, int);
+		}
+		va_end(arguments);
+	}
+	return (sum);
+}
+>>>>>>> 89e03a71a6efc37b7521a312921eefd84af14811
